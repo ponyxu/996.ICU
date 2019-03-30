@@ -14,6 +14,7 @@
 
 |(城市)公司名称|时间|制度描述|证据内容|
 |:---|:---|:---|:---:|
+|[腾讯](http://www.tencent.com)|2018年8月|996|[51CTO]http://news.51cto.com/art/201808/582106.htm|
 |[58同城](http://www.58.com)|2016年9月初|996|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)|-|
 |[有赞](http://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|-|
 |[北京京东](http://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入.](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)|-|
@@ -23,3 +24,4 @@
 |[阿里](https://www.alibabagroup.com/)|2018年6月|996|[天天快报](https://kuaibao.qq.com/s/20180612A1FAPU00)|
 |[字节跳动](https://bytedance.com)|2017年7月|加班|[看准](https://www.kanzhun.com/gsr5622411tl56.html)|
 |[苏宁](http://www.suning.com)|2019年3月|996|[知乎](https://www.zhihu.com/question/314152843/answer/613149536)|
+
